@@ -1,0 +1,13 @@
+{
+  "name": "devops-assignment-3",
+  "version": "1.0.0",
+  "description": "Automated Selenium tests for Jenkins pipeline",
+  "main": "registry.test.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "^29.0.0",
+    "selenium-webdriver": "^4.0.0"
+  }
+}
